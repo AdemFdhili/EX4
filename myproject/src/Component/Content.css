@@ -1,0 +1,27 @@
+.text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.macro {
+    font-weight: 600;
+    font-size: 15px;
+    color: #25C4F4;
+   
+}
+.title {
+    font-size: 3.5rem;
+    font-weight: 600;
+    height: 4rem;
+}
+ 
+.pf{
+    color: #475467;
+    margin-bottom: 2rem;
+}
+.buttons{
+    display: flex;
+    gap: 1rem;
+    
+}
